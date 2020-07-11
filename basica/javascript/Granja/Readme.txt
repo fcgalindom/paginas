@@ -1,0 +1,1 @@
+sirve para dar animales aleatorios y moverlos
