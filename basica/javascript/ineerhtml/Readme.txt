@@ -1,0 +1,1 @@
+en numeros pares coloca fizzz y en impares fiizzzbuzzz
